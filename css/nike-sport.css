@@ -1,0 +1,39 @@
+.nike-sport__left-part {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.nike-head {
+  width: 380px;
+}
+
+.nike-spot__link {
+  text-decoration: none;
+  color: #fff;
+  padding: 12px 90px;
+  background: #EA625C;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  position: relative;
+  top: 42px;
+  opacity: 0.9;
+}
+
+.nike-spot__link:hover {
+  opacity: 1;
+}
+
+.nike-sport__img {
+  margin-top: 92px;
+}
+/*# sourceMappingURL=nike-sport.css.map */
